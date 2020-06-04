@@ -7,7 +7,7 @@ Bu kodu KEIL MDK5 platformunda STM32F10x_StdPeriph_Driver kütüphanesini kullan
 
 Yararlanmak isteyenler için eksiği fazlasıyla olduğu gibi paylaşıyorum. Direkt ya da indirekt zararlardan dolayı sorumluluk almıyorum.
 
-Soruları olanlar ya da daha fazla destek isteyenler için blog sitem selcuktechnical.work üzerinden yardımcı olmaya çalışırım.
+Soruları olanlar ya da daha fazla destek isteyenler için blog sitem selcukozbayraktar.com üzerinden yardımcı olmaya çalışırım.
 
 Selamlarımla,
 
